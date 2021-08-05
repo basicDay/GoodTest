@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-  return 0;
+  删除掉return0， 修改依次看符号
 }
 
 //第二次重新修改
